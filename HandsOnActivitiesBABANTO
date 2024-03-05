@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+      	background-image: url("background.jpg"); 
+    	background-size: cover; 
+     	background-repeat: no-repeat;
+    	}
+	h1{
+	text-align: center;
+	font-family: "Arial";
+	font-size : 30pt;
+	}
+	p1{
+	font-family: "Calibri";
+	font-size : 30pt;
+	}
+	img{
+	width: 40%;
+	}
+	</style>
+</head>
+<body>
+
+<h1>  "Sharmaine Gabrielle Babanto Profile" </h1>
+
+<center>
+<p1>
+HELLO EVERYONE! <br>
+I am Sharmaine, 19 years of age, <br>
+living from Carinugan Balulang, CDOC.<br>
+My hobbies are; <br>
+singing,<br> eating,<br>dancing,<br>and watching series movies.<br>
+</p1>
+</center>
+
+<center>
+<img src = "profile.jpg"/>
+</body>
+</html>
+
